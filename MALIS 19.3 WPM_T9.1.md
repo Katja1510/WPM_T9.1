@@ -4,7 +4,7 @@
 
 ### Beispiel A: Revision mit Excel – keine glückliche Lösung
 
-#### 1. Gründe für die Revision
+#### 1. Einleitung: Gründe für eine Revision
 
 Ich arbeite als Bibliotheksleitung in der Bibliothek des Instituts für Archäologische Wissenschaften an der Ruhr-Universität Bochum. Sowohl das Institut als auch die Bibliothek setzen sich aus den beiden Fachbereichen der Klassischen Archäologie und der Ur- und Frühgeschichte zusammen. 
 
