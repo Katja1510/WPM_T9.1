@@ -6,7 +6,7 @@
 
 #### 1. Einleitung: Gründe für eine Revision
 
-Ich arbeite als Bibliotheksleitung in der Bibliothek des Instituts für Archäologische Wissenschaften an der Ruhr-Universität Bochum. Sowohl das Institut als auch die Bibliothek setzen sich aus den beiden Fachbereichen der Klassischen Archäologie und der Ur- und Frühgeschichte zusammen. 
+Ich arbeite als Bibliotheksleitung in der Bibliothek des Instituts für Archäologische Wissenschaften an der Ruhr-Universität Bochum. Sowohl das Institut als auch die Bibliothek setzen sich aus den beiden Fachbereichen der Klassischen Archäologie und der Ur- und Frühgeschichte zusammen. Meine Hilfskräfte und ich nehmen alle zwei Jahre eine Revision in unserer Bibliothek vor.
 
 Eine Revision ist eine Methode, um festzustellen, ob alle Titel, die im **OPAC** für unsere beiden Fachbereiche eingepflegt wurden, auch im Regal vorhanden sind oder ob die im Regal vorhandenen Titel korrekt in den **OPAC** eingepflegt wurden. Die Revision erfolgt nach Möglichkeit alle zwei Jahre, damit ich als Bibliotheksleitung auf diese Weise einen Überblick über den momentanen Bestand erhalte und fehlerhafte **OPAC**-Eingaben sowohl kontrollieren als auch beseitigen kann. Um Fehlbestände handelt es sich, wenn Metadaten zu einem Titel im **OPAC** existieren, das Buch jedoch nicht im Regal steht und auch kein anderer Verbleib feststellbar ist. Fehlbestände sollten im **OPAC** kenntlich gemacht werden, damit die Nutzer darüber informiert sind, dass ein bestimmtes Buch in der Archäologischen Bibliothek nicht zur Verfügung steht und ggf. nachgekauft wird.
 
